@@ -1,0 +1,6 @@
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\bin\Debug\Bai5.exe
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\bin\Debug\Bai5.pdb
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\obj\Debug\Bai5.exe
+C:\Users\TienSy\Documents\Visual Studio 2017\Tuan1\Module1\Bai5\Bai5\obj\Debug\Bai5.pdb
