@@ -1,0 +1,28 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\bin\Debug\Bai1.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\bin\Debug\Bai1.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\bin\Debug\Bai1.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.Form1.resources
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai1\obj\Debug\Bai1.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\bin\Debug\Bai1.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\bin\Debug\Bai1.exe
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\bin\Debug\Bai1.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.Form1.resources
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.exe
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai1\obj\Debug\Bai1.pdb
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\bin\Debug\Bai1.exe
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\bin\Debug\Bai1.pdb
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.csprojAssemblyReference.cache
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.exe
+C:\Users\TienSy\Downloads\jhg\LapTrinhMoiTruongTrucQuan-master\Tuan1\Module2\Bai1\obj\Debug\Bai1.pdb

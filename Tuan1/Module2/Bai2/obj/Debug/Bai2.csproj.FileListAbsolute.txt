@@ -1,0 +1,17 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\bin\Debug\Bai2.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\bin\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\bin\Debug\Bai2.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\obj\Debug\Bai2.Form1.resources
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\obj\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Module2\Bai2\obj\Debug\Bai2.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\bin\Debug\Bai2.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\bin\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\bin\Debug\Bai2.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.csprojAssemblyReference.cache
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.Form1.resources
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\LapTrinhMoiTruongTrucQuan\Module2\Bai2\obj\Debug\Bai2.pdb
